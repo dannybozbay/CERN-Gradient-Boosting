@@ -16,7 +16,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/DannyBozbay/CERN-Gradient-Boosting/total) ![Contributors](https://img.shields.io/github/contributors/DannyBozbay/CERN-Gradient-Boosting?color=dark-green) ![Issues](https://img.shields.io/github/issues/DannyBozbay/CERN-Gradient-Boosting) ![License](https://img.shields.io/github/license/DannyBozbay/CERN-Gradient-Boosting) 
+![Downloads](https://img.shields.io/github/downloads/DannyBozbay/CERN-Gradient-Boosting/total) ![Contributors](https://img.shields.io/github/contributors/DannyBozbay/CERN-Gradient-Boosting?color=dark-green) ![Issues](https://img.shields.io/github/issues/DannyBozbay/CERN-Gradient-Boosting)
 
 ## Table Of Contents
 
