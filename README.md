@@ -43,7 +43,7 @@ $m_0^2c^4 = E^2 - p^2c^2$
 
 Can we build a regression model that can learn this relationship? This is the question our project tries to answer (spoiler: the answer is yes... for simple dielectron events).
 
-A great Kaggle dataset was used to train/test model. You can find my Kaggle notebook [here](https://www.kaggle.com/code/danielbozbay/cern-data-end-to-end-gradient-boosting-0-9-rmse). Please upvote it if you found it useful :)
+A great Kaggle dataset was used to train/test the model. You can find my Kaggle notebook [here](https://www.kaggle.com/code/danielbozbay/cern-data-end-to-end-gradient-boosting-0-9-rmse). Please upvote it if you found it useful :)
 
 ![Screen Shot](images/cms.jpg)
 
