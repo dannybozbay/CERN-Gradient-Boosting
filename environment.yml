@@ -1,4 +1,4 @@
-name: CERN-ML
+name: CERN-Gradient-Boosting
 
 channels:
   - conda-forge
