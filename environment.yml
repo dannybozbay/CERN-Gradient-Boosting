@@ -1,0 +1,26 @@
+name: CERN-ML
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11.0
+  - matplotlib
+  - lightgbm
+  - jupyter
+  - ipykernel
+  - pip
+  - pip: 
+    - pandas
+    - numpy
+    - scipy
+    - scikit-learn
+    - xgboost
+    - catboost
+    - matplotlib
+    - seaborn
+    - ipympl  
+    - tqdm 
+    - shap
+    
